@@ -5,5 +5,10 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+## With Capacitor
+<img width="1600" height="586" alt="image" src="https://github.com/user-attachments/assets/d42edf4c-10ac-4581-acd9-20ca9daf95e1" />
+## Without capacitor
+
+<img width="1600" height="581" alt="image" src="https://github.com/user-attachments/assets/b4805c5e-33ce-4bd1-9c42-2ca37e53ca8d" />
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
