@@ -10,8 +10,9 @@
 <img width="1032" height="1280" alt="image" src="https://github.com/user-attachments/assets/73d3c3ce-bd33-42ee-b8cc-1c1f440bf6f2" />
 
 ## Semilog plotted Graph
-<img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/0615e455-5c4c-4319-a151-dc9290600f01" />
+<img width="1544" height="1166" alt="image" src="https://github.com/user-attachments/assets/ea1e5622-bc0c-492c-800b-c6133bb4835b" />
 
 
-<img width="1600" height="743" alt="image" src="https://github.com/user-attachments/assets/fc9b1873-7ad8-4a3a-b62b-fab82fbb4ed7" />
+
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/e0a169a6-130c-455c-8463-1df3f8450b3c" />
 
